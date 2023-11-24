@@ -1,4 +1,4 @@
-file_path = r'D:\Python\python Lab\1\f1.txt'
+file_path = r'f1.txt'
 with open(file_path, 'r') as file:
     content = file.read()
     

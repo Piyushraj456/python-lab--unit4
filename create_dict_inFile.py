@@ -1,5 +1,5 @@
 students_list = []
-file_path = r'D:\Python\python Lab\1\f3.txt'
+file_path = r'f3.txt'
 
 with open(file_path, 'r') as file:
  
